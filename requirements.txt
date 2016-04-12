@@ -1,6 +1,6 @@
 psycopg2==2.6.1
 pycrypto==2.6.1
-static3=0.6.1
+static3==0.6.1
 dj-database-url==0.4.1
 Django==1.9.4
 gunicorn==19.4.5
